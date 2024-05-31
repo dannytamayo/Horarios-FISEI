@@ -8,3 +8,8 @@ Este backend ha sido desarrollado para gestionar los horarios de docentes y aula
 - **Información Completa**: Proporciona todos los datos necesarios para planificar actividades académicas.
 - **Módulo de Sugerencias**: Incluye un buzon de sugerencias para mejorar el uso de las aulas.
 - **Eficiencia**: Optimizado para un rendimiento rápido y una gestión eficiente de los datos.
+
+## Tecnología Utilizada
+
+- **Framework**: Laravel para el desarrollo de las APIs.
+- **Autenticación**: Implementación de autenticación con Firebase.
